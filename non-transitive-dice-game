@@ -1,0 +1,2 @@
+A generalized console-based implementation of a non-transitive dice game in C#. Includes HMAC-based fairness verification, support for custom dice configurations, error handling for invalid inputs, and probability analysis between each pair of dice.
+https://drive.google.com/file/d/18OGjZXqoouXDTmFCJBU1yRI2vfKGlpQa/view?usp=sharing
